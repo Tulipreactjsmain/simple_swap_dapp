@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28542894497",
+    "project_id": "gmail-api-401916",
+    "storage_bucket": "gmail-api-401916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28542894497:android:8524f6430a5dd14d5d8be0",
+        "android_client_info": {
+          "package_name": "com.example.simple_swap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6tZcoIPzzJK_zocT4MOtTx_gMT-Py7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
